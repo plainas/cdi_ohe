@@ -1,0 +1,13 @@
+name: cdi_ohe
+version: 0.1.0
+
+authors:
+  - pedro <your-email-here>
+
+targets:
+  cdi_ohe:
+    main: src/cdi_ohe.cr
+
+crystal: 0.27.2
+
+license: MIT
