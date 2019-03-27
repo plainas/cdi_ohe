@@ -7,6 +7,12 @@ The encoded output is sent to STDOUT
 
 Build with `shards build` and copy the resulting binary to a location in your PATH.
 
+You can download a compiled binary for x86_64 from the releases page:
+
+https://github.com/plainas/cdi_ohe/releases
+
+I do not plan to make further releases for this or any other architecture.
+
 ## Usage
 
 ```
@@ -30,3 +36,7 @@ $ cat testfile | ./cdi_ohe a b c
 0 0 0
 0 0 0
 ```
+
+## Contributing
+
+This program source is 20 lines of code and it was written in a few minutes. I do not plan to add more functionality. The recomended way of contributing is by cloning the project and modifying it as needed.
